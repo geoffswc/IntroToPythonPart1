@@ -10,11 +10,11 @@ https://swcarpentry.github.io/python-novice-gapminder/
 
 The Intro to Python Part 1 workshop focuses on core python and covers the following sections:
 
-1. Running and Quitting
-2. Variables and Assignment
-3. Data Types and Type Conversion
-4. Built-In Functions and Help
-6. Libraries
-11. Lists
-12. For Loops
+1. Running and Quitting (Ch1)
+2. Variables and Assignment (Ch2)
+3. Data Types and Type Conversion (Ch3)
+4. Built-In Functions and Help (Ch4)
+5. Libraries (Ch6)
+6. Lists (Ch11)
+7. For Loops (Ch12)
 
