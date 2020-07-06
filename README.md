@@ -4,7 +4,7 @@ This repository contains notes, exercises, and responses to questions during the
 
 ### Links
 
-The workshop is based on the "Plotting and Programming with Python" workshop from software carpentry.
+The workshop is based on the "Plotting and Programming with Python" tutorial from software carpentry.
 
 https://swcarpentry.github.io/python-novice-gapminder/
 
